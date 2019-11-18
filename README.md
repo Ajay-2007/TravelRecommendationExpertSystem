@@ -15,6 +15,9 @@ Travel Recommendation System written completely in JESS. Which can recommend whe
   * Summer
   * Winter
   * Autumn
+  
+### Expert System architecture
+<img src="https://github.com/Ajay-2007/TravelRecommendationExpertSystem/blob/master/expert_system.png"/>
 
 
 ### Prequisite
