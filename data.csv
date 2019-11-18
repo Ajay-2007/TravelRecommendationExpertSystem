@@ -1,0 +1,83 @@
+,,,,Name of place,Country,budget starts,bugdet range,Area type,climate,transport
+,,,,Machu Picchu,Peru,90000,100000,Historical,Spring,By_Airplanes
+,,,,Tikal,Guatemala,80000,90000,Historical,Spring,By_Airplanes
+,,,,The Pyramids at Giza,Egypt,70000,80000,Historical,Spring,By_Airplanes
+,,,,Angkor Wat,Cambodia,60000,70000,Historical,Spring,By_Airplanes
+,,,,Petra,Jordan,60000,70000,Historical,Spring,By_Airplanes
+,,,,Stonehenge,England,50000,60000,Historical,Autumn,By_Airplanes
+,,,,The Colosseum and Forum,Italy,15000,30000,Historical,Autumn,By_Airplanes
+,,,,The Parthenon,Greece,30000,50000,Historical,Autumn,By_Airplanes
+,,,,Easter Island,Chile,70000,80000,Historical,Winter,By_Airplanes
+,,,,The Alhambra,California,1000,5000,Historical,Winter,By_Airplanes
+,,,,Taj Mahal,India,5000,10000,Historical,Spring,By_Bus
+,,,,The Great Wall of China,China,90000,100000,Historical,Spring,By_Airplanes
+,,,,Chichén Itzá,Mexico,80000,90000,Historical,Winter,By_Bus
+,,,,Volubilis,Morocco,70000,80000,Historical,Winter,By_Trains
+,,,,Sukhothai,Thailand,60000,70000,Historical,Spring,By_Airplanes
+,,,,Victoria Peak,Hong Kong,60000,70000,Hill Station,Winter,By_Bus
+,,,,Mount Mogan,China,50000,60000,Hill Station,Autumn,By_Trains
+,,,,Alaska,USA,15000,30000,Hill Station,Spring,By_Airplanes
+,,,,Arizona,USA,30000,50000,Hill Station,Winter,By_Bus
+,,,,Geneva,Europe,70000,80000,Hill Station,Autumn,By_Trains
+,,,,Zurich,Europe,1000,5000,Hill Station,Spring,By_Airplanes
+,,,,Cape Town,Africa,5000,10000,Hill Station,Winter,By_Bus
+,,,,Aspen,USA,90000,100000,Hill Station,Autumn,By_Trains
+,,,,Da Lat,Vietnam,80000,90000,Hill Station,Spring,By_Airplanes
+,,,,Cooktown,Australia,70000,80000,Hill Station,Winter,By_Bus
+,,,,Shimla,India,60000,70000,Hill Station,Autumn,By_Trains
+,,,,Ooty,India,60000,70000,Hill Station,Spring,By_Airplanes
+,,,,Darjeeling and Gangtok,India,50000,60000,Hill Station,Winter,By_Bus
+,,,,Bandarban,Banladesh,15000,30000,Hill Station,Autumn,By_Trains
+,,,,Pyin U Lwin,Burma,30000,50000,Hill Station,Spring,By_Airplanes
+,,,,Arabian Desert,UAE,70000,80000,Desert,Winter,By_Bus
+,,,,Mundulea Reserve,"Namibia,Afica",1000,5000,Desert,Autumn,By_Trains
+,,,,Sahara Desert,Egypt,5000,10000,Desert,Spring,By_Airplanes
+,,,,The Central Kalahari Game Reserve,Africa,90000,100000,Desert,Winter,By_Bus
+,,,,Black Rock Desert,USA,80000,90000,Desert,Autumn,By_Trains
+,,,,Wahiba sands,Oman,70000,80000,Desert,Spring,By_Airplanes
+,,,,The Central Kalahari Game Reserve,Africa,60000,70000,Desert,Winter,By_Bus
+,,,,Maasai Mara,Kenya,60000,70000,Desert,Autumn,By_Trains
+,,,,Duba,Africa,50000,60000,Desert,Spring,By_Airplanes
+,,,,Ruaha National Park,Tanzania,15000,30000,Desert,Winter,By_Bus
+,,,,Thar Desert,India,30000,50000,Desert,Autumn,By_Trains
+,,,,Northern Kenya,Kenya,70000,80000,Desert,Spring,By_Airplanes
+,,,,Duba,Africa,90000,100000,Desert,Winter,By_Bus
+,,,,Gorillas,Rwanda,80000,90000,Beaches,Autumn,By_Trains
+,,,,Ruaha National Park,Tanzania,70000,80000,Beaches,Spring,By_Airplanes
+,,,,El Nido,Philippines,60000,70000,Beaches,Winter,By_Bus
+,,,,Honokalani Beach,HI,60000,70000,Beaches,Autumn,By_Trains
+,,,,Pansy Island,Mozambique,50000,60000,Beaches,Spring,By_Airplanes
+,,,,Anse Lazio,Seychelles,15000,30000,Beaches,Winter,By_Bus
+,,,,Honopu Beach,HI,30000,50000,Beaches,Autumn,By_Trains
+,,,,Sunset Beach,HI,70000,80000,Beaches,Spring,By_Airplanes
+,,,,Ipanema Beach,Brazil,90000,100000,Beaches,Winter,By_Bus
+,,,,Blue Beach,Puerto Rico,80000,90000,Beaches,Autumn,By_Trains
+,,,,Praia Mole,Brazil,70000,80000,Beaches,Spring,By_Airplanes
+,,,,Waipio Valley Beach,HI,60000,70000,Beaches,Winter,By_Bus
+,,,,Matira Beach,French Polynesia,60000,70000,Beaches,Autumn,By_Trains
+,,,,Long Beach,Thailand,50000,60000,Beaches,Spring,By_Airplanes
+,,,,Puka Beach,Philippines,15000,30000,Beaches,Winter,By_Bus
+,,,,Horseshoe Bay,Bermuda,30000,50000,Beaches,Autumn,By_Trains
+,,,,Temae and Teavora,French Polynesia,70000,80000,Beaches,Spring,By_Airplanes
+,,,,Male's,Maldives,70000,80000,Tropical Island Resort,Spring,By_Airplanes
+,,,,Bora Bora,Tahiti,60000,70000,Tropical Island Resort,Spring,By_Airplanes
+,,,, Riviria Maya,Mexico,60000,70000,Tropical Island Resort,Winter,By_Bus
+,,,,Aitutaki,Cook islands,50000,60000,Tropical Island Resort,Autumn,By_Trains
+,,,,Kauai,Hawai,15000,30000,Tropical Island Resort,Spring,By_Airplanes
+,,,,The Mamanuca Islands,Fiji,30000,50000,Tropical Island Resort,Autumn,By_Airplanes
+,,,,Santorni,Greece,90000,100000,Romantic,Spring,By_Airplanes
+,,,,Majarco,spain,80000,90000,Romantic,spring,By_Airplanes
+,,,,The bearkshakes,Massachutess,70000,80000,Romantic,Winter,By_Bus
+,,,,Bruges,Brazil,60000,70000,Romantic,Autumn,By_Trains
+,,,,Savvana,georgia,60000,70000,Romantic,Winter,By_Bus
+,,,,Moritz,Switzerland,50000,60000,Romantic,Autumn,By_Airplanes
+,,,,The Maldives,Indonesia,15000,30000,Romantic,Spring,By_Bus
+,,,,kurella,Haiyka,30000,50000,Romantic,Winter,By_Trains
+
+
+
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
