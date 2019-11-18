@@ -24,6 +24,7 @@ In order to install the project and get it running, you're gonna need these thin
 2. Java version >= 1.8
 3. Jess (https://www.jessrules.com/jess/download.shtml)
 4. git
+   sudo apt install git
 ```
 
 ### How to Run
@@ -33,7 +34,7 @@ In order to install the project and get it running, you're gonna need these thin
  $ cd TravelRecommendationExpertSystem
  $ eclipse .
 2. Add the JESS jar file location in Eclipse Project, which I have uploaded in the same directory.
-3. Run the project from Eclipse.
+3. Run controller.java from Eclipse.
 ```
 
 <img src="https://github.com/Ajay-2007/TravelRecommendationExpertSystem/blob/master/controller.png"/>
